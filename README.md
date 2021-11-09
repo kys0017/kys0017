@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### 매일 조금씩!
-###🌱 -> 🌼 -> 🍇
+### 🌱 -> 🌼 -> 🍇
 
 <!--
 **kys0017/kys0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
