@@ -1,4 +1,4 @@
-# 👋 Frontend 개발자입니다.
+# 👋 Frontend 개발하고 있어요.
 
 > 사용자 중심의 웹 경험을 만들고, 깔끔하고 재사용 가능한 컴포넌트를 설계하는 것을 좋아합니다.
 
@@ -23,12 +23,13 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
 
 ## 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kys0017&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kys0017&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
+<!--
 ## 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kys0017&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kys0017&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<!--
 ## 🤝 Contact & Links
 - 📧 Email: kys0017@gmail.com
-- 📝 Blog: [https://amond0017.tistory.com](link)
+- 📝 Blog: [https://amond0017.tistory.com](link) -->
