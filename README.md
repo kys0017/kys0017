@@ -22,11 +22,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
 
+## 📈 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kys0017&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kys0017&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📈 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kys0017&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contact & Links
 - 📧 Email: kys0017@gmail.com
